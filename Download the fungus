@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download the Fungus</title>
+
+    <style>
+        body {
+            background: #17120d;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 80px;
+        }
+
+        h1 {
+            font-size: 60px;
+        }
+
+        p {
+            font-size: 22px;
+        }
+
+        button {
+            font-size: 25px;
+            padding: 15px 30px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>🍄 DOWNLOAD THE FUNGUS 🍄</h1>
+
+    <p>The world's greatest mushroom clicking experience.</p>
+
+    <p>Made in Scratch. Made in under 3 hours.</p>
+
+    <button onclick="location.href='YOUR-SCRATCH-GAME-LINK'">
+        PLAY THE FUNGUS
+    </button>
+
+</body>
+</html>
